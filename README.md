@@ -1,10 +1,12 @@
-::: {align="center"}
+ <div align="center">
 # 🎓 Student Record Management System
 
 ### A C Programming Project for Managing Student Records
 
-`<img src="assets/banner.png" alt="Student Record Management System Banner">`{=html}
-:::
+<img src="assets/banner.png" alt="Student Record Management System Banner">
+
+</div>
+
 
 ------------------------------------------------------------------------
 
@@ -190,6 +192,6 @@ Possible improvements for future versions:
 If you find this project useful for learning C programming, consider
 giving the repository a ⭐ on GitHub.
 
-::: {align="center"}
+ {align="center"}
 ### Built with ❤️ using C
-:::
+
